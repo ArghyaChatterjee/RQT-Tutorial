@@ -1,10 +1,6 @@
 # RQT Tutorial
 This repository is about RQT tutorial. 
 
-## ROS 2 RQT Tutorial
-
-**Tested with ROS 2 Humble and Iron**
-
 ### What is RQT?
 
 **RQT** is a Qt-based framework for GUI development for ROS. It comes with several **plugins** that help visualize and manage nodes, topics, parameters, graphs, etc.
